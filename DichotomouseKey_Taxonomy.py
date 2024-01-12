@@ -57,7 +57,7 @@ elif start == 'water':
                 print('The name of the identified animal is \"PHOTOSYNTHETIC SUN-BASKING SHARK\"')
             elif Thirteen == 'OB':
                 print('The name of the animal is \"CHEMOSYNTHETIC GOLDFISH\"')
-        elif Thirteen == 'PLANT':
+        elif Twelve == 'PLANT':
             fourteen = input('is a light, red and green, type LRG if yes ').upper()
             if fourteen == 'LRG':
                 print('The name of the animal is \"AQUA-WHEAT\"')
